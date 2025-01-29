@@ -26,9 +26,6 @@ importers:
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
-      eslint:
-        specifier: ^9.19.0
-        version: 9.19.0(jiti@1.21.7)
       next:
         specifier: latest
         version: 15.1.6(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
@@ -69,6 +66,9 @@ importers:
       '@types/react-dom':
         specifier: 19.0.3
         version: 19.0.3(@types/react@19.0.7)
+      eslint:
+        specifier: ^9.19.0
+        version: 9.19.0(jiti@1.21.7)
 
 packages:
 
